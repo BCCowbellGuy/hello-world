@@ -1,5 +1,6 @@
 # hello-world
 Github Tutorial
+<<<<<<< HEAD
 
 Hello there!
 
@@ -7,3 +8,5 @@ This is BCCowbellGuy, and I'm an aspiring programmer.  Someday, I hope to work o
 
 Nice to meet you all!
 BCCowbellGuy
+=======
+>>>>>>> refs/remotes/origin/master
